@@ -1,0 +1,4 @@
+CourseID,CourseName,Faculty,TimeSlot,Room
+C1,Data Structures,Prof. A,Tue_9,R1
+C2,DBMS,Prof. B,Tue_10,R2
+C3,Operating Systems,Prof. A,Mon_10,R1
